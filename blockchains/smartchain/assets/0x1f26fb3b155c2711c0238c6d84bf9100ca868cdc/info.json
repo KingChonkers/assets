@@ -1,0 +1,12 @@
+{
+    "name": "Chonkers",
+    "type": "BEP20",
+    "symbol": "CHONK",
+    "decimals": 9,
+    "website": "http://www.chonkers.fun/",
+    "description": "Chonkers is programmed to reward holders while increasing in both liquidity and value. It applies 10% tax on transactions and 5% goes to holders while 5% is auto-locked to liquidity.
+",
+    "explorer": "https://bscscan.com/token/0x1f26fb3b155c2711c0238c6d84bf9100ca868cdc",
+    "status": "active",
+    "id": "0x1f26fb3b155c2711c0238c6d84bf9100ca868cdc"
+}
